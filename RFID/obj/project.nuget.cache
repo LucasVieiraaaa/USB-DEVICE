@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NEdKq6Dsa1iuoIojOYDZH02ui5hpF4kfppJNbwRrXsJsBmEzWcioEPGjxbaExdGZEPnyngAbOTg3+zEBUUiloA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LucasVieiraSouza\\source\\repos\\RFID\\RFID\\RFID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LucasVieiraSouza\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\LucasVieiraSouza\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
